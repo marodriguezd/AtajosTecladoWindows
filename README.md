@@ -30,4 +30,4 @@
 
 ## Atajos del teclado virtual (solo en dispositivos táctiles):
 - **Windows Key + Ctrl + O:** Abre el teclado virtual.
-- **Windows Key + Ctrl + C:** Abre el teclado emoji.
+- **Windows Key + Ctrl + .:** Abre el teclado emoji.
